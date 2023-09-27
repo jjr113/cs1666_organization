@@ -6,18 +6,18 @@
 
 3. 09/27 - 10/03: Jacob Kopco
 
-4. 10/04 - 10/10: NONE
+4. 10/04 - 10/10: Jonathan Riklan
 
-5. 10/11 - 10/17: NONE
+5. 10/11 - 10/17: Tyler Libertaore
 
-6. 10/18 - 10/24: REQUIRED (Midterm progress check)
+6. 10/18 - 10/24: Zi Han Ding (Midterm progress check)
 
-7. 10/25 - 10/31: NONE
+7. 10/25 - 10/31: Vansh Desai
 
-8. 11/01 - 11/07: NONE
+8. 11/01 - 11/07: David Platon
 
 9. 11/08 - 11/14: NONE
 
 10. 11/15 - 11/28: (2 weeks, includes thanksgiving)
 
-11. 11/29 - 12/05: REQUIRED (Final game demos on 12/06)
+11. 11/29 - 12/05: Cole Eichner (Final game demos on 12/06)
