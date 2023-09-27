@@ -1,10 +1,10 @@
 # People Preparing Bits Managment week Signup
 
-1. 09/13 - 09/19: 
+1. 09/13 - 09/19: Mary Grady
 
-2. 09/20 - 09/26: 
+2. 09/20 - 09/26: Anderis Dobrowolski
 
-3. 09/27 - 10/03: NONE
+3. 09/27 - 10/03: Jacob Kopco
 
 4. 10/04 - 10/10: NONE
 
