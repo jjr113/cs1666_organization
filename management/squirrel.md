@@ -1,6 +1,6 @@
 # Squirrel Managment week Signup
 
-1. 09/13 - 09/19: 
+1. 09/13 - 09/19: Justin Holt
 
 2. 09/20 - 09/26: Madeline Powers
 
