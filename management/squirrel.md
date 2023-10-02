@@ -4,7 +4,7 @@
 
 2. 09/20 - 09/26: Madeline Powers
 
-3. 09/27 - 10/03: NONE
+3. 09/27 - 10/03: Samuel Wang
 
 4. 10/04 - 10/10: NONE
 
