@@ -16,7 +16,7 @@
 
 8. 11/01 - 11/07: NONE
 
-9. 11/08 - 11/14: NONE
+9. 11/08 - 11/14: Alexander Haurin
 
 10. 11/15 - 11/28: (2 weeks, includes thanksgiving)
 
