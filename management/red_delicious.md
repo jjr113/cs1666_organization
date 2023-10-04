@@ -1,18 +1,18 @@
 # Red Delicious Managment week Signup
 
-1. 09/13 - 09/19: 
+1. 09/13 - 09/19: Jordan Brudenell
 
-2. 09/20 - 09/26: 
+2. 09/20 - 09/26: Alex Lampe
 
-3. 09/27 - 10/03: NONE
+3. 09/27 - 10/03: Brendan Szewczyk
 
-4. 10/04 - 10/10: NONE
+4. 10/04 - 10/10: Garrett DiCenzo
 
 5. 10/11 - 10/17: NONE
 
-6. 10/18 - 10/24: REQUIRED (Midterm progress check)
+6. 10/18 - 10/24: Sam Durigon
 
-7. 10/25 - 10/31: NONE
+7. 10/25 - 10/31: Ruoheng Xu
 
 8. 11/01 - 11/07: NONE
 
