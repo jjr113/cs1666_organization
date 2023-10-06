@@ -8,7 +8,7 @@
 
 4. 10/04 - 10/10: Kyra Schultz
 
-5. 10/11 - 10/17: NONE
+5. 10/11 - 10/17: Jakob Bindas
 
 6. 10/18 - 10/24: Miles Hamilton (Midterm progress check)
 
