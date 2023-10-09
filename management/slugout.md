@@ -12,7 +12,7 @@
 
 6. 10/18 - 10/24: REQUIRED (Midterm progress check)
 
-7. 10/25 - 10/31: NONE
+7. 10/25 - 10/31: Lining Liu (Jimmy)
 
 8. 11/01 - 11/07: Luke Charlesworth
 
