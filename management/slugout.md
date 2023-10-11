@@ -10,7 +10,7 @@
 
 5. 10/11 - 10/17: NONE
 
-6. 10/18 - 10/24: REQUIRED (Midterm progress check)
+6. 10/18 - 10/24: REQUIRED (Midterm progress check) Nicole
 
 7. 10/25 - 10/31: Lining Liu (Jimmy)
 
