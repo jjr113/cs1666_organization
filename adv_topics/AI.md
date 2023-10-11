@@ -35,7 +35,7 @@ Introduction:
 -	Mention point system, go into depth later.
 
 
-Sub-topic 1: Tracking player movement – point system (utility AI)
+Sub-topic 1: Tracking player movement – point system (utility AI) (14 minutes)
 
 -	In depth explanation of point system and how we are going to assign certain player movement to boss level integration of said movement. (i.e. how will these points dictate how the boss moves) 
 -	How will points be assigned to players based on movement
@@ -45,7 +45,7 @@ Sub-topic 1: Tracking player movement – point system (utility AI)
 
 
 
-Sub-topic 2: Choices – point system (utility AI)
+Sub-topic 2: Choices – point system (utility AI) (14 minutes)
 
 -	In depth explanation of point system and how we are going to assign certain player decisions to boss level integration of said decisions.
 -	How will points be assigned to specific actions 
@@ -62,7 +62,7 @@ Sub-topic 2: Choices – point system (utility AI)
 -	This can be used to multiply by the utility that is calculated from our general scale
 
 
-Sub-topic 3: Possible player actions vs possible boss actions (utility AI) 
+Sub-topic 3: Possible player actions vs possible boss actions (utility AI)  (14 minutes)
 
 -	Boss is given the ability for four separate behaviors: attack, block, avoid, and change target.
 -	How will the point system affect these choices?
@@ -72,7 +72,7 @@ Sub-topic 3: Possible player actions vs possible boss actions (utility AI)
 -	If score is this do this etc….
 
 
-Sub-topic 4: Smaller bosses (simplified AI) 
+Sub-topic 4: Smaller bosses (simplified AI) (14 minutes)
 
 -	Intro to how the smaller enemies are worked into the game/ ie their role and why we used a basic AI for them vs the main boss 
 -	Algorithm of tracking player position 
