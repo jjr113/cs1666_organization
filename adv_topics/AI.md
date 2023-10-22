@@ -81,15 +81,34 @@ Sub-topic 4: Smaller bosses (simplified AI) (14 minutes)
 
 
 ## Presentation II
-
-- Topic 1 (XX minutes)
-  - ...
-- Topic 2 (XX minutes)
-  - ...
-- Topic 3 (XX minutes)
-  - ...
-...
-
+- Hybrid Behaviour Tree: Overview, Design, and Implementation
+  - Hybrid as in it is utility based combined with some event driven aspects 
+- Sub-Topic 1: Behaviour Tree Overview (15 Minutes)
+  - FSMs -> decision trees + planning algorithms + hierarchical structures -> behavior tree
+    - Different Type of Behaviour Tree Nodes 
+  - Types of behavior trees
+    - How does it differs in behaviour selections
+  - Specific applications of behavior trees
+    - Video game AI, NLP, Robotics, etc.
+- Sub-Topic 2: Behaviour Tree Implementation and Design Philosophy in Existing Games (15 Minutes)
+  - Take a look at how games like Halo 2 and Spores designed their AI behaviour trees
+  - The Intention -> Decision -> Action Tree structure
+  - Impulse Behaviours
+    - Event Driven Behaviour
+    - Dynamic modification on the tree mid-execution 
+  - Implementation Constraints
+    - Execution speed
+    - Memory constraints from the data structure
+- Sub-Topic 3: Behaviour Tree Implemntation in Cats with Bats (15 Minutes)
+  - NPC States
+    - Intention States and how it build into selecting actions
+   - How NPC difficulty affects the probability of an NPC being in a particular state
+    - Decision Selection Probability
+    - Formula of Probability Calculation
+  - How behaviors are implemented within states
+    - A* algorithm for pathfinding when moving towards and away from the ball
+    - Some event driven impulse selections
+  - Walkthrough of an example action being executed
 
 ## Presentation III
 
