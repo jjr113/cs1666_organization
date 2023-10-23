@@ -75,13 +75,31 @@ Liying Qin
 
 ## Presentation II
 
-- Topic 1 (XX minutes)
-  - ...
-- Topic 2 (XX minutes)
-  - ...
-- Topic 3 (XX minutes)
-  - ...
-...
+- UDP Connections and Reliability (15 minutes)
+  - What does TCP offer that UDP doesn't have
+  - Why we can't use TCP for an action game
+  - How to replicate connections in UDP
+  - How to replicate packet ordering in UDP
+  - How to replicate packet resending in UDP
+  - How to handle congestion
+  - Case study by explaining host.rs
+- Game synchronization and agreement (15 minutes)
+  - Everyone is simulating the game locally
+  - The host is the source of truth for what really happened
+  - Describe the flow of information
+  - Describe sources of latency
+  - Describe clientside prediction
+  - Describe prediction correction
+  - Case study in collisions with the local player
+- Lag compensation (15 minutes)
+  - Because of latency, actions made by the player arrive at the server when state has changed
+  - For fairness, a player should have their inputs evaluated against the state in which they were created
+  - solutions: delay, lag comp, rollback
+  - delay means that you see your own inputs late, rather than predicting them you wait for the server to respond
+  - lag comp means you predict, and when the server gets your inputs it checks how the world looked at the time of input and applies the effect that would occur. meaning you can get shot through walls.
+  - rollback is like lag comp, but instead of just applying the effect at that point in time it is received, it resimulates the world from the input onward as if the input had come in earlier.
+  - why we aren't doing true rollback and instead doing lag comp
+  - credit to source developer wiki
 
 
 ## Presentation III
