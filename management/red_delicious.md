@@ -12,11 +12,11 @@
 
 6. 10/18 - 10/24: Sam Durigon
 
-7. 10/25 - 10/31: Ruoheng Xu
+7. 10/25 - 10/31: None
 
 8. 11/01 - 11/07: NONE
 
-9. 11/08 - 11/14: NONE
+9. 11/08 - 11/14: Ruoheng Xu
 
 10. 11/15 - 11/28: (2 weeks, includes thanksgiving)
 
