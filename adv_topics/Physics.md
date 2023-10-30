@@ -24,12 +24,43 @@ and be sure not to repeat any topics covered in previous presentations.
 
 ## Presentation II
 
-- Topic 1 (XX minutes)
-  - ...
-- Topic 2 (XX minutes)
-  - ...
-- Topic 3 (XX minutes)
-  - ...
+- Topic 1 (~15 minutes)
+  - Introduction to concepts
+    - Explain the player (lil man)'s movement on the ground (friction) and in the air (air resistance). 
+    - Importance of friction to add realism
+    - After releasing the movement key on the ground, the user will slow to a stop, rather than just stopping at the blink of an eye. 
+    - Show air resistance when gliding and on acorn
+  - Math used
+    - Explain the equations of motion with air resistance
+      - where m is the player’s mass, g is the gravitational acceleration, b is the drag coefficient. Both a and v can be represented as differentials 
+  - Implementation of friction in game
+    - Explain Euler numerical integrator to solve the differential equations of motion
+
+- Topic 2 (~10 minutes)
+  - Introduction to conecept
+    - Exploding acorn that ejects some harmful particles to the player 
+  - Math used
+    - Simple case of the conservation of momentum
+      - with initial conditions dependent on the velocity vector of the explosive acorn before explosion
+    - Basic derivation, each particle resulting from the explosion shall be treated as a projectile
+  - Implementation of explosion particles in game
+    - Follow the aforementioned equations of motion for projectile motion with an initial velocity vector. 
+    - Few particles that can actually damage the player 
+    - Will be ejected out from the center of our explosion, subject to projectile motion.
+
+- Topic 3 (~20 minutes)
+  - Introduction to concept
+    - Used for the water/lava in our game
+    - Creating a “fluids” simulation by treating player as a simple harmonic oscillator moving across space
+    - Triggered by an initial collision with a water tile and will end when player is no longer colliding with water 
+    - Ideally, momentum in horizontal and vertical directions are conserved
+  - Math
+    - Will go through brief derivation of damped oscillation equation in slides
+    - Need to decide on what case of damped harmonic motion we will consider (critically damped, underdamped, overdamped) 
+    - Overdamped makes the most sense considering how we are picturing motion through water
+    - Use Euler Cromer method to implement by calculating time steps
+    - Walk through steps of the algorithm in slides
+
 ...
 
 
