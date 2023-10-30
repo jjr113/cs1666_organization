@@ -32,15 +32,29 @@ and be sure not to repeat any topics covered in previous presentations.
   - How can a balance be struck between procedural generation and hand-created maps/levels within a game?
 
 
-## Presentation II
+## Presentation II - Red Delicious
 
-- Topic 1 (XX minutes)
-  - ...
-- Topic 2 (XX minutes)
-  - ...
-- Topic 3 (XX minutes)
-  - ...
-...
+- Introduction (10 minutes)
+  - Welcome and introduction to the topic
+  - Explanation for the significance of procedural generation in various applications, from gaming to art
+  - Provide examples of how the Perlin Noise algorithm is used in real-world contexts
+  - Discuss how Perlin Noise is used to generate terrain, texture, world-building
+- Understanding Perlin Noise (25 minutes)
+  - What is Perlin Noise?
+  - Perlin Noise properties
+  - How does Perlin Noise work?
+  - Combining and Layering Noise
+  - Perlin Noise Implementation in our 2D Game
+  - How we tweaked the Perlin Noise algorithm
+  - Procedural Generation Demo
+- Challenges and Future Plans (5 minutes)
+  - Limitations and Challenges
+  - Future Plans
+    - Blue Noise
+    - Texture Generation
+- Conclusion (5 minutes)
+    - Summarize critical takeaways from the presentation
+    - Reinforce the importance of Perlin Noise in creating natural-looking patterns
 
 
 ## Presentation III
