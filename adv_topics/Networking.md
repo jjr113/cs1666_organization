@@ -108,8 +108,39 @@ Liying Qin
   - ...
 - Security (15 minutes)
   - ...
-- Network Topology, Bandwith, and Packets (XX minutes)
-  - ...
+- Network Topology, Bandwith, and Packets (15 minutes)
+  - Network Topology
+      - Physical Topology
+          - The actual physical parts of the network system.
+              - Device Location
+              - Installation of cables
+      - Logical Topology
+          - How the data is flowing through the network
+              - Distances between nodes
+              - Transmission rates
+              - Signal types
+      - Wired Technologies
+          - Coaxial Wires vs Fiber Optic
+      - Nodes
+          - Network Interface Controller
+          - Bridges
+          - Routers
+      - Network Classifications
+          - Point to Point
+          - Bus
+          - Star
+          - Mesh
+          - Hybrid
+  - Bandwidth
+      - What is a bandwidth
+      - Network Capacity
+      - Network Throughput
+      - Edholm's Law
+  - Packets
+      - Addresses
+      - Payload
+      - Correction
+      - Hop Limits
 ...
 
 
