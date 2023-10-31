@@ -105,7 +105,23 @@ Liying Qin
 ## Presentation III
 
 - Latency (15 minutes)
-  - ...
+  - Deterministic Replication
+      - What is determinism?
+      - No physics in Far From Fatality
+      - Feasible?
+  - Authoritative Replication
+      - Receive inputs
+      - Send game state
+      - Why this is the one used in Far From Fatality
+  - Delayed Input on the Client
+      - Why delayed inputs?
+      - Why client specifically?
+  - Rollback on the Server
+      - Why rollback?
+      - Why server specifically?
+  - Hybrid Delayed and Rollback
+      - Why we think the hybrid model works
+  - Questions?
 - Security (15 minutes)
   - ...
 - Network Topology, Bandwith, and Packets (15 minutes)
