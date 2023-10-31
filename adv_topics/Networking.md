@@ -104,11 +104,11 @@ Liying Qin
 
 ## Presentation III
 
-- Topic 1 (XX minutes)
+- Latency (15 minutes)
   - ...
-- Topic 2 (XX minutes)
+- Security (15 minutes)
   - ...
-- Topic 3 (XX minutes)
+- Network Topology, Bandwith, and Packets (XX minutes)
   - ...
 ...
 
