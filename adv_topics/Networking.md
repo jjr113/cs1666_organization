@@ -123,7 +123,20 @@ Liying Qin
       - Why we think the hybrid model works
   - Questions?
 - Security (15 minutes)
-  - ...
+  - NAT and Firewalls
+      - Firewall basics
+      - Differences between router firewall and application firewalls
+      - Ports and Port-forwarding
+      - What does UPNP mean for gaming?
+      - What does NAT mean for gaming?
+  - Cryptography
+      - History of modern Cryptography
+      - Post-quantum cryptography
+      - Applications of cyptographic algorithms in gaming
+  - Attacks over the Network
+      - Types of Web based attacks
+      - Interesting modern attacks through games
+      - Defenses against these types of attacks
 - Network Topology, Bandwith, and Packets (15 minutes)
   - Network Topology
       - Physical Topology
