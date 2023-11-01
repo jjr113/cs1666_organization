@@ -34,9 +34,7 @@ and be sure not to repeat any topics covered in previous presentations.
 
 ## Presentation II - Red Delicious
 
-- Introduction (10 minutes)
-  - Welcome and introduction to the topic
-  - Explanation for the significance of procedural generation in various applications, from gaming to art
+- Introduction (5 minutes)
   - Provide examples of how the Perlin Noise algorithm is used in real-world contexts
   - Discuss how Perlin Noise is used to generate terrain, texture, world-building
 - Understanding Perlin Noise (25 minutes)
@@ -47,11 +45,13 @@ and be sure not to repeat any topics covered in previous presentations.
   - Perlin Noise Implementation in our 2D Game
   - How we tweaked the Perlin Noise algorithm
   - Procedural Generation Demo
-- Challenges and Future Plans (5 minutes)
+  - Perlin Noise Variants
+- Challenges and Future Plans (10 minutes)
   - Limitations and Challenges
   - Future Plans
     - Blue Noise
     - Texture Generation
+    - Graphs
 - Conclusion (5 minutes)
     - Summarize critical takeaways from the presentation
     - Reinforce the importance of Perlin Noise in creating natural-looking patterns
