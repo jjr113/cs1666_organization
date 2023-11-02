@@ -105,20 +105,29 @@ Liying Qin
 ## Presentation III
 
 - Latency (15 minutes)
-  - Deterministic Replication
+  - Deterministic Replication (DR)
       - What is determinism?
+          - IEEE 754 and float point
       - No physics in Far From Fatality
       - Feasible?
-  - Authoritative Replication
+  - Authoritative Replication (AR)
       - Receive inputs
+          - Keypresses
       - Send game state
+          - Bevy's gamestate is not typical gamestate
       - Why this is the one used in Far From Fatality
+          - Fallback plan
+          - Segway into hybrid design because AR may potentially solve problems.
   - Delayed Input on the Client
       - Why delayed inputs?
+          - Demonstration of delayed input, frame-by-frame
       - Why client specifically?
+          - To hopefully solve rollback issues
   - Rollback on the Server
       - Why rollback?
+          - Demonstration of simple prediction and rollback, frame-by-frame
       - Why server specifically?
+          - Rollback and prediction is replicated
   - Hybrid Delayed and Rollback
       - Why we think the hybrid model works
   - Questions?
