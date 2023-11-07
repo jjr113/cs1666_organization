@@ -146,39 +146,34 @@ Liying Qin
       - Types of Web based attacks
       - Interesting modern attacks through games
       - Defenses against these types of attacks
-- Network Topology, Bandwith, and Packets (15 minutes)
+- Bandwidth Optimization (15 minutes)
   - Network Topology
-      - Physical Topology
-          - The actual physical parts of the network system.
-              - Device Location
-              - Installation of cables
-      - Logical Topology
-          - How the data is flowing through the network
-              - Distances between nodes
-              - Transmission rates
-              - Signal types
-      - Wired Technologies
-          - Coaxial Wires vs Fiber Optic
-      - Nodes
-          - Network Interface Controller
-          - Bridges
-          - Routers
       - Network Classifications
           - Point to Point
           - Bus
-          - Star
           - Mesh
-          - Hybrid
-  - Bandwidth
-      - What is a bandwidth
-      - Network Capacity
-      - Network Throughput
-      - Edholm's Law
+          - Star
+      - Why we went with star?
+      - Server Hosting in our game
+      - Client Connection in our game
+  - Bandwidth 
+      - Network Speed
+      - Throughput
+      - Bandwith and UDP/TCP
+      - How does this affect our game?
   - Packets
-      - Addresses
-      - Payload
-      - Correction
-      - Hop Limits
+      - Basic packet sending
+      - Packet sending in our game
+          - What are we sending?
+          - How is it stored?
+          - How is it sent?
+      - Using the packets in our game
+          - How are we collecting the packets?
+          - How are we implementing the information that it gives?
+              - How it affects players
+              - How it affects enemies
+              - How it affects environment
+      - How does our delayed model affect Packet sending?
 ...
 
 
