@@ -104,12 +104,62 @@ Liying Qin
 
 ## Presentation III
 
-- Topic 1 (XX minutes)
-  - ...
-- Topic 2 (XX minutes)
-  - ...
-- Topic 3 (XX minutes)
-  - ...
+- Latency (30 minutes)
+  - Deterministic Replication (DR)
+      - What is determinism?
+          - IEEE 754 and float point
+      - No physics in Far From Fatality
+      - Feasible? 
+  - Authoritative Replication (AR)
+    - Overwatch Implementation and examples
+      - Receive inputs
+          - Keypresses
+      - Send game state
+          - Bevy's gamestate is not typical gamestate
+      - Why this is the one used in Far From Fatality
+          - Fallback plan
+          - Segway into hybrid design because AR may potentially solve problems.
+  - Delayed Input on the Client
+      - Why delayed inputs?
+          - Demonstration of delayed input, frame-by-frame
+      - Why client specifically?
+          - To hopefully solve rollback issues
+  - Rollback on the Server
+      - Why rollback?
+          - Demonstration of simple prediction and rollback, frame-by-frame
+      - Why server specifically?
+          - Rollback and prediction is replicated
+  - Hybrid Delayed and Rollback
+      - Why we think the hybrid model works
+  - Questions?
+- Bandwidth Optimization (15 minutes)
+  - Network Topology
+      - Network Classifications
+          - Point to Point
+          - Bus
+          - Mesh
+          - Star
+      - Why we went with star?
+      - Server Hosting in our game
+      - Client Connection in our game
+  - Bandwidth 
+      - Network Speed
+      - Throughput
+      - Bandwith and UDP/TCP
+      - How does this affect our game?
+  - Packets
+      - Basic packet sending
+      - Packet sending in our game
+          - What are we sending?
+          - How is it stored?
+          - How is it sent?
+      - Using the packets in our game
+          - How are we collecting the packets?
+          - How are we implementing the information that it gives?
+              - How it affects players
+              - How it affects enemies
+              - How it affects environment
+      - How does our delayed model affect Packet sending?
 ...
 
 
