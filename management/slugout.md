@@ -16,8 +16,8 @@
 
 8. 11/01 - 11/07: Luke Charlesworth
 
-9. 11/08 - 11/14: Jakob
+9. 11/08 - 11/14: NONE
 
 10. 11/15 - 11/28: (2 weeks, includes thanksgiving)
 
-11. 11/29 - 12/05: REQUIRED (Final game demos on 12/06)
+11. 11/29 - 12/05: REQUIRED (Final game demos on 12/06) Jakob
